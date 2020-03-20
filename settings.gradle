@@ -1,0 +1,2 @@
+include ':app', ':javassist-plugin'
+rootProject.name='My Application'
